@@ -1,4 +1,4 @@
-# TradeDeadlineWSProjections
+# Trade Deadline World Series Participant Projections
 What factors help determine the odds of world series participation the day after the trade deadline?
 
 The dataset for this project is a manually generated from BaseballSavant.MLB.com
